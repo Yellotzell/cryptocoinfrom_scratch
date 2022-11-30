@@ -12,9 +12,9 @@ import pandas as pd
 
 
 
-#####################################
-##### Code for CW2: Transactions ####
-#####################################
+################################
+##### Code for Transactions ####
+################################
 
 
 def public_key_bytes(private_key):
