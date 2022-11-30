@@ -343,9 +343,9 @@ def create_signed_transaction(sender_private_key, recipient_hash, amount, fee, n
     
     return tr 
 
-###########################################
-##### Code for CW3: Block and Balances ####
-###########################################
+######################################
+##### Code for Block and Balances ####
+######################################
 
 
 class UserState:
